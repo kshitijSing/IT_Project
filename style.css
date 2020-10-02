@@ -26,7 +26,7 @@
 /* Sidebar links */
 .sidebar a {
   display: block;
-  color: black;
+  color: #555;
   padding: 16px;
   text-decoration: none;
 }
