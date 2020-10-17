@@ -1,2 +1,2 @@
 # IT_Project
-Readme added
+Academic project
